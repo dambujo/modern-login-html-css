@@ -12,7 +12,8 @@ body {
 .login__card-container {
   align-items: center;
   justify-content: center;
-  margin-top: 250px;
+  margin-top: 50px;
+  position: sticky;
 }
 
 .login__card {
